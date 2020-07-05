@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## This firs function creates a cache matrix. A list with function as elementes that will allow later to obtain the invers of the matrix
+## This first function creates a cache matrix. A list with function as elements that will allow later to obtain the inverse of the matrix
 
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
